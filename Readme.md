@@ -1,4 +1,3 @@
-````markdown
 # WDIO SmartUI TypeScript
 
 A WebdriverIO + TypeScript project for LambdaTest SmartUI visual testing on real Android devices.
