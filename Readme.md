@@ -44,7 +44,3 @@ npm test
 * TypeScript
 * LambdaTest SmartUI
 
-```
-
-Let me know if you'd like to add instructions for uploading SmartUI baselines or handling geolocation prompts.
-```
