@@ -7,11 +7,11 @@ export const config: WebdriverIO.Config = {
   maxInstances: 1,
   capabilities: [
     {
-      browserName: 'Chrome',
+      browserName: 'Safari',
       'LT:Options': {
-        platformName: 'android',
-        deviceName: 'Galaxy S23',
-        platformVersion: '13',
+        platformName: 'ios',
+        deviceName: 'iPhone 15 Pro',
+        platformVersion: '17',
         browserVersion: 'latest',
         isRealMobile: true,
         // resolution: '1280x800',
