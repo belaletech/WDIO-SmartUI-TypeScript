@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env vars
+.env
+
+# SmartUI cache
+.smartui/
+
+# Compiled TypeScript
+*.js
+*.d.ts
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage reports
+coverage/
